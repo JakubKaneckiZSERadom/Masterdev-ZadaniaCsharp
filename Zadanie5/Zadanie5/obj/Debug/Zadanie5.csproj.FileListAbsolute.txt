@@ -1,0 +1,8 @@
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\obj\Debug\Zadanie5.csproj.AssemblyReference.cache
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\obj\Debug\Zadanie5.csproj.SuggestedBindingRedirects.cache
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\obj\Debug\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\bin\Debug\Zadanie5.exe.config
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\bin\Debug\Zadanie5.exe
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\bin\Debug\Zadanie5.pdb
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\obj\Debug\Zadanie5.exe
+C:\Users\jkan\OneDrive\Dokumenty\cess\Zadanie5\Zadanie5\obj\Debug\Zadanie5.pdb
